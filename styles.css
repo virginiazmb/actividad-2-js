@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  form label, form input, form textarea {
+    display: block;
+    margin-bottom: 15px;
+  }
+  
+  ul{
+    list-style: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  li span {
+    font-weight: 600;
+    font-size: 1.4rem;
+  }
+
+  li p{
+    margin-right: 40px;
+    font-size: 1.4rem;
+    font-weight: 600;
+  }
+  
+  button {
+    padding: 5px 10px;
+    border: 1px solid rgb(75, 75, 124);
+  }
